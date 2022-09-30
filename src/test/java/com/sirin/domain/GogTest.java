@@ -34,12 +34,4 @@ class GogTest {
 
         assertEquals("Kuzya",dog.getName());
     }
-
-    @Test
-    void getAge() {
-    }
-
-    @Test
-    void setAge() {
-    }
 }
